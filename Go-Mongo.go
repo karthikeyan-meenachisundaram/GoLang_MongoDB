@@ -14,7 +14,7 @@ import (
 // MongoURI returns the URI string (hidden from main.go)
 func MongoURI() string {
 	// You can also read this from an env variable here if you want
-	return "mongodb+srv://Karthikeyan:Hema%401199@mycluster.5oolqvy.mongodb.net/"
+	return "mongodb+srv://Karthikmongodb.net/"
 }
 
 // Connect returns Mongo client, context, and cancel func.
